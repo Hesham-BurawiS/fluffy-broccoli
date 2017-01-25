@@ -1,5 +1,0 @@
-AuthName "Please Login"
-AuthType Basic
-AuthUserFile hesham-burawis.github.io/httpd.www/.htpasswd
-AuthGroupFile /dev/null 
-require valid-user
