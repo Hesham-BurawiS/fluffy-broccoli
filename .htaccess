@@ -1,5 +1,5 @@
 AuthName "Please Login"
 AuthType Basic
-AuthUserFile /customers/7/9/c/hesham-burawis.github.io/httpd.www/.htpasswd
+AuthUserFile hesham-burawis.github.io/httpd.www/.htpasswd
 AuthGroupFile /dev/null 
 require valid-user
